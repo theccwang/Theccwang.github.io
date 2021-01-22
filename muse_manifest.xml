@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="google.com" resolutions="1x" timestamp="1611314201926">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="google.com" resolutions="1x" timestamp="1611315333632">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="16948687" ref="index"/>
+    <file name="index.css" crc="4174613141" ref="index"/>
     <file name="___-2.css" crc="252702755" ref="未命名-2"/>
   </folder>
   <folder name="scripts">
@@ -16,13 +16,13 @@
     <file name="未命名-2 (1)-crop-u94.png" crc="196192461" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="未命名-1 (1).png" crc="3894240268" seo="true" ref="index">
+    <file name="未命名-1 (1).png" crc="195999723" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="螢幕快照 2020-06-30 02_02728.jpg" crc="37396748" seo="true" ref="未命名-2">
       <caption webpage="未命名-2" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="191005500" seo="true" mt="1611312848187" redirect="true"/>
+  <file name="index.html" crc="3886864679" seo="true" mt="1611315322661" redirect="true"/>
   <file name="未命名-2.html" crc="3961733926" seo="true" mt="1611312777543" redirect="true"/>
 </manifest>
